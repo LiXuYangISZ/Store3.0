@@ -5,6 +5,8 @@
 
 开发工具：`IDEA+MySQL5.5`
 
+关于IDEA 如何运行JavaWeb类型的项目可以参考: https://blog.csdn.net/web18484626332/article/details/123422267
+
 ## 项目结构
 
 - resources：存放SQL文件 和 `课程设计报告.doc`
