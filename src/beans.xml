@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+   <bean id="ProductDao" class="cn.rg.dao.impl.ProductDaoImpl"/>
+   <bean id="UserDao" class="cn.rg.dao.impl.UserDaoImpl"/>
+   <bean id="CategoryDao" class="cn.rg.dao.impl.CategoryDaoImpl"/>
+   <bean id="OrderDao" class="cn.rg.dao.impl.OrderDaoImpl"/>
+   
+   <bean id="ProductService" class="cn.rg.service.impl.ProductServiceImpl"/>
+   <bean id="UserService" class="cn.rg.service.impl.UserServiceImpl"/>
+   <bean id="CategoryService" class="cn.rg.service.impl.CategoryServiceImpl"/>
+   <bean id="OrderService" class="cn.rg.service.impl.OrderServiceImpl"/>
+</beans>
